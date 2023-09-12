@@ -1,0 +1,30 @@
+{
+  "name": "base10",
+  "version": "1.0.0",
+  "description": "Base10 encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesobreira/base10.git"
+  },
+  "keywords": [
+    "base10",
+    "base64",
+    "encoder",
+    "decoder",
+    "binary",
+    "to",
+    "string",
+    "numbers",
+    "text"
+  ],
+  "author": "Jefrey S. Santos <jefrey.santos@capitual.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesobreira/base10/issues"
+  },
+  "homepage": "https://github.com/jesobreira/base10#readme"
+}
